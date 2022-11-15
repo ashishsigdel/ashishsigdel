@@ -1,0 +1,19 @@
+.hero-btn{
+    display: inline-block;
+    text-decoration: none;
+    color: white;
+    border: 1px solid white;
+    border-radius: 6px;
+    padding: 12px 34px;
+    margin-top: 15px;
+    font-size: 13px;
+    background: transparent;
+    cursor: pointer;
+}
+.hero-btn:hover{
+    text-decoration: none;
+    border: 1px solid crimson;
+    background: crimson;
+    transition: 0.7s;  
+}
+

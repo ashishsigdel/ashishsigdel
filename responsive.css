@@ -1,0 +1,31 @@
+@media(max-width: 700px){
+    .about .about-content .column{
+        width: 50%;
+        display: flex;
+        flex-direction: column;
+    }
+}
+@media(max-width: 700px){
+    .home .max-width{
+        margin: 300px 0 auto -30px;
+    }
+    .home .home-content .text-1{
+        font-size: 22px;
+    }
+    .home .home-content .text-2{
+        font-size: 55px;
+        font-weight: 600;
+        margin-left: -3px;
+    }
+    .home .home-content .text-3{
+        font-size: 32px;
+        margin: 5px 0;
+    }
+    .about .about-content .column{
+        width: 50%;
+
+    }
+}
+@media(max-width: 390px){
+    
+}
