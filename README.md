@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aasis635&label=Profile%20views&color=0e75b6&style=flat" alt="aasis635" /> </p>
 - 🔭 I love learning web and app development, and currently, I am also engaged in running.
 
-- 💬 My Skills:  **Photoshop, HTML, CSS, JavaScript, ReactJs, NextJs, Node.js, Figma, C, C++**
+- 💬 My Skills:  **Photoshop, Illustrator, HTML, CSS, JavaScript, ReactJs, NextJs, Node.js, Figma, C, C++**
 
 - 📫 How to reach me **a.asis.sigdel01@gmail.com**
  
