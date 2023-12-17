@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aasis635&label=Profile%20views&color=0e75b6&style=flat" alt="aasis635" /> </p>
 - 🔭 I love learning web and app development, and currently, I am also engaged in running.
 
-- 💬 My Skills:  ReactJs, Node.js, Express.js, MongoDB, JavaScript ES6, C, C++, Photoshop, Figma**
+- 💬 My Skills:  NextJS, ReactJs, Node.js, Express.js, MongoDB, JavaScript ES6, C, C++, Photoshop, Figma**
 
 - 📫 How to reach me **a.asis.sigdel01@gmail.com**
  
@@ -12,11 +12,6 @@
 View Website👇:
 
 📝<a href="https://www.ashishsigdel.com.np" target="blank" >Visit Website</a>🔥
-
-</br>
-I am also avaiable on Youtube👇: </br></br>
-
-📺 <a href="https://www.youtube.com/@aasisvisuals" target="blank" rel="Subscribe">Visit Youtube</a> </br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
