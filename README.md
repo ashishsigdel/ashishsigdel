@@ -1,5 +1,7 @@
-<h1 align="center">Hi 👋, I'm Ashish Sigdel</h1>
-<h3 align="center">A passionate full stack developer with MERN & MEAN stack and NextJs. Love to build beautiful websites with latest tech available😄😄😄</h3>
+<div align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Ashish!+😎;" />
+</div>
+<h3 align="center">A passionate full stack web developer and ML/AI Enthusiast.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aasis635&label=Profile%20views&color=0e75b6&style=flat" alt="ashishsigdel" /> </p>
 
