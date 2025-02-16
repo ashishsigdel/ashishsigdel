@@ -3,8 +3,6 @@
 </div>
 <h3 align="center">As an enthusiast of Deep Learning and Artificial Intelligence, I am also a full-stack developer.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aasis635&label=Profile%20views&color=0e75b6&style=flat" alt="ashishsigdel" /> </p>
-
 # 💫 About Me:
 
 - 👯 I’m looking to collaborate
