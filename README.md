@@ -11,7 +11,7 @@
 
 - 💬 My Skills:  **Python, Scikit-Learn, Pytorch, Pandas, Nextjs, Nodejs, Mysql, Sql, React, Typescript, C, C++**
 
-- 📫 How to reach me **a.asis.sigdel01@gmail.com**
+- 📫 How to reach me **me.ashishsigdel@gmail.com**
 
 - 🌐 Website **https://ashishsigdel.com.np**
 
